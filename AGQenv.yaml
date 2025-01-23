@@ -1,4 +1,4 @@
-name: aqm-env
+name: agq-env
 channels:
 - anaconda
 - conda-forge
